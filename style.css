@@ -1,3 +1,16 @@
+/* Button */
+a button{
+ width:119px;
+ height:38px;
+ font-size:19px;
+ color:#000000;
+ background-color:#db9e9e;
+ border-top-left-radius:10px;
+ border-top-right-radius:10px;
+ border-bottom-left-radius:10px;
+ border-bottom-right-radius:10px;
+}
+
 body {
 	background-color: #e78b8b;
 }
